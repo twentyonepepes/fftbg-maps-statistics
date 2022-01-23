@@ -1,0 +1,47 @@
+{
+  "tileCount": {
+    "sigma": 69.47021902364513,
+    "mean": 246.06611570247935,
+    "sampleSize": 121
+  },
+  "passableTilePercentage": {
+    "sigma": 0.08194474023400405,
+    "mean": 0.9406119037190439,
+    "sampleSize": 121
+  },
+  "lavaTilePercentage": {
+    "sigma": 0.016597653257732343,
+    "mean": 0.0015151515151515152,
+    "sampleSize": 121
+  },
+  "depthCount_gte1Percentage": {
+    "sigma": 0.04894733523433008,
+    "mean": 0.02387543844254853,
+    "sampleSize": 121
+  },
+  "depthCount_gte2Percentage": {
+    "sigma": 0.02310351023175688,
+    "mean": 0.006327738188457683,
+    "sampleSize": 121
+  },
+  "heightStandardDeviation": {
+    "sigma": 1.4757970517649688,
+    "mean": 3.5421734578827513,
+    "sampleSize": 121
+  },
+  "averageMeanStartingDelta": {
+    "sigma": 2.97199886003791,
+    "mean": 14.386708707267136,
+    "sampleSize": 121
+  },
+  "averageClosestStartingDelta": {
+    "sigma": 3.060226164995416,
+    "mean": 13.232916721575094,
+    "sampleSize": 121
+  },
+  "meanTeam1HeightAdvantage": {
+    "sigma": 2.1767173657919536,
+    "mean": 0.15082644628099173,
+    "sampleSize": 121
+  }
+}
