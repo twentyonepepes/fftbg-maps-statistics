@@ -1,0 +1,859 @@
+{
+  "slug": "52-chapel-of-st.-murond-temple",
+  "num": 52,
+  "name": "Chapel of St. Murond Temple",
+  "surfaces": [
+    "Coffin",
+    "Cross section",
+    "Natural Surface",
+    "Obstacle",
+    "Rug",
+    "Stone floor"
+  ],
+  "starts": [
+    [
+      "m52-0-0-4",
+      "m52-0-0-6",
+      "m52-0-11-4",
+      "m52-0-11-6"
+    ],
+    [
+      "m52-0-5-0",
+      "m52-0-6-0",
+      "m52-0-5-10",
+      "m52-0-6-10"
+    ]
+  ],
+  "positionDelta": 10.5,
+  "heightDelta": 0,
+  "tiles": [
+    {
+      "_id": "m52-0-0-4",
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-0-5",
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-0-6",
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-1-0",
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-1-1",
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-1-2",
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-1-4",
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-1-5",
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-1-6",
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-0",
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-1",
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-2",
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-3",
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-4",
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-5",
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-6",
+      "x": 6,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-7",
+      "x": 7,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-8",
+      "x": 8,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-2-9",
+      "x": 9,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-1",
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-2",
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-3",
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-4",
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 3,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-5",
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 2,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-6",
+      "x": 6,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 3,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-7",
+      "x": 7,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-8",
+      "x": 8,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-3-9",
+      "x": 9,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-4-1",
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-4-2",
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 2.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-4-4",
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-4-5",
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-4-6",
+      "x": 6,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-4-8",
+      "x": 8,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 2.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-4-9",
+      "x": 9,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-5-0",
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-5-1",
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-5-2",
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-5-3",
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 2,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-5-4",
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-5-5",
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Coffin"
+    },
+    {
+      "_id": "m52-0-5-6",
+      "x": 6,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-5-7",
+      "x": 7,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 2,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-5-8",
+      "x": 8,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-5-9",
+      "x": 9,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-5-10",
+      "x": 10,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-6-0",
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-6-1",
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-6-2",
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-6-3",
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 2,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-6-4",
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-6-5",
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Coffin"
+    },
+    {
+      "_id": "m52-0-6-6",
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-6-7",
+      "x": 7,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 2,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-6-8",
+      "x": 8,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-6-9",
+      "x": 9,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-6-10",
+      "x": 10,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-7-1",
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-7-2",
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 2.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-7-4",
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-7-5",
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-7-6",
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 4,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m52-0-7-8",
+      "x": 8,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 2.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-7-9",
+      "x": 9,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-1",
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-2",
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-3",
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-4",
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 3,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-5",
+      "x": 5,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 2,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-6",
+      "x": 6,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 3,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-7",
+      "x": 7,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-8",
+      "x": 8,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-8-9",
+      "x": 9,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-0",
+      "x": 0,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-1",
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-2",
+      "x": 2,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-3",
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-4",
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-5",
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-6",
+      "x": 6,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-7",
+      "x": 7,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-8",
+      "x": 8,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-9-9",
+      "x": 9,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-10-0",
+      "x": 0,
+      "y": 10,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-10-1",
+      "x": 1,
+      "y": 10,
+      "z": 0,
+      "depth": 0,
+      "height": 1,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-10-2",
+      "x": 2,
+      "y": 10,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-10-4",
+      "x": 4,
+      "y": 10,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-10-5",
+      "x": 5,
+      "y": 10,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-10-6",
+      "x": 6,
+      "y": 10,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-11-4",
+      "x": 4,
+      "y": 11,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-11-5",
+      "x": 5,
+      "y": 11,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m52-0-11-6",
+      "x": 6,
+      "y": 11,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Stone floor"
+    }
+  ]
+}

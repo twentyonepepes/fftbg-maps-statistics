@@ -1,0 +1,1002 @@
+{
+  "slug": "118-enhasa-zeal-city",
+  "num": 118,
+  "name": "Enhasa Zeal City",
+  "surfaces": [
+    "Iron plate",
+    "Machine",
+    "Natural Surface",
+    "Stairs",
+    "Stone floor"
+  ],
+  "starts": [
+    [
+      "m118-0-5-0",
+      "m118-0-6-0",
+      "m118-0-5-1",
+      "m118-0-6-1"
+    ],
+    [
+      "m118-0-5-12",
+      "m118-0-6-12",
+      "m118-0-5-13",
+      "m118-0-6-13"
+    ]
+  ],
+  "positionDelta": 12.5,
+  "heightDelta": 0,
+  "tiles": [
+    {
+      "_id": "m118-0-1-4",
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-1-5",
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-1-6",
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-1-7",
+      "x": 7,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-1-8",
+      "x": 8,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-1-9",
+      "x": 9,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-2-4",
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-2-9",
+      "x": 9,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-3-0",
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-3-1",
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-3-2",
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-3-4",
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-3-9",
+      "x": 9,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-3-11",
+      "x": 11,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-3-12",
+      "x": 12,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-3-13",
+      "x": 13,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-4-0",
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 12,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-4-1",
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-4-2",
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-4-3",
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 6.5,
+      "surface": "Natural Surface"
+    },
+    {
+      "_id": "m118-0-4-4",
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 8,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-4-5",
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-4-6",
+      "x": 6,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-4-7",
+      "x": 7,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-4-8",
+      "x": 8,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-4-9",
+      "x": 9,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 8,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-4-10",
+      "x": 10,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 6.5,
+      "surface": "Natural Surface"
+    },
+    {
+      "_id": "m118-0-4-11",
+      "x": 11,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-4-12",
+      "x": 12,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-4-13",
+      "x": 13,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 12,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-5-0",
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-1",
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-2",
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-3",
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m118-0-5-4",
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-5",
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-6",
+      "x": 6,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-7",
+      "x": 7,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-8",
+      "x": 8,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-9",
+      "x": 9,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-10",
+      "x": 10,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m118-0-5-11",
+      "x": 11,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-12",
+      "x": 12,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-5-13",
+      "x": 13,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-0",
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-1",
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-2",
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-3",
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m118-0-6-4",
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-5",
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-6",
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-7",
+      "x": 7,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-8",
+      "x": 8,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-9",
+      "x": 9,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-10",
+      "x": 10,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m118-0-6-11",
+      "x": 11,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-12",
+      "x": 12,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-6-13",
+      "x": 13,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-7-0",
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 12,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-7-1",
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-7-2",
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-7-3",
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-7-4",
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-7-5",
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 5.5,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-7-6",
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-7-7",
+      "x": 7,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-7-8",
+      "x": 8,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 5.5,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-7-9",
+      "x": 9,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-7-10",
+      "x": 10,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-7-11",
+      "x": 11,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-7-12",
+      "x": 12,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-7-13",
+      "x": 13,
+      "y": 7,
+      "z": 0,
+      "depth": 1,
+      "height": 11,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-8-0",
+      "x": 0,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-8-1",
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-8-2",
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-8-4",
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-8-6",
+      "x": 6,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-8-7",
+      "x": 7,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-8-9",
+      "x": 9,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-8-11",
+      "x": 11,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-8-12",
+      "x": 12,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-8-13",
+      "x": 13,
+      "y": 8,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-9-4",
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 9,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-9-5",
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 9,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-9-6",
+      "x": 6,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-9-7",
+      "x": 7,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-9-8",
+      "x": 8,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 9,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-9-9",
+      "x": 9,
+      "y": 9,
+      "z": 0,
+      "depth": 0,
+      "height": 9,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-10-6",
+      "x": 6,
+      "y": 10,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-10-7",
+      "x": 7,
+      "y": 10,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-11-6",
+      "x": 6,
+      "y": 11,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-11-7",
+      "x": 7,
+      "y": 11,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-12-0",
+      "x": 0,
+      "y": 12,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-12-6",
+      "x": 6,
+      "y": 12,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-12-7",
+      "x": 7,
+      "y": 12,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-12-13",
+      "x": 13,
+      "y": 12,
+      "z": 0,
+      "depth": 0,
+      "height": 7,
+      "surface": "Machine"
+    },
+    {
+      "_id": "m118-0-13-6",
+      "x": 6,
+      "y": 13,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-13-7",
+      "x": 7,
+      "y": 13,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-0-14-5",
+      "x": 5,
+      "y": 14,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-14-6",
+      "x": 6,
+      "y": 14,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-14-7",
+      "x": 7,
+      "y": 14,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-0-14-8",
+      "x": 8,
+      "y": 14,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-1-5-0",
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "depth": 0,
+      "height": 12,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-1-5-13",
+      "x": 13,
+      "y": 5,
+      "z": 1,
+      "depth": 0,
+      "height": 12,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-1-6-0",
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "depth": 0,
+      "height": 12,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-1-6-13",
+      "x": 13,
+      "y": 6,
+      "z": 1,
+      "depth": 0,
+      "height": 12,
+      "surface": "Stone floor"
+    },
+    {
+      "_id": "m118-1-9-6",
+      "x": 6,
+      "y": 9,
+      "z": 1,
+      "depth": 0,
+      "height": 9,
+      "surface": "Iron plate"
+    },
+    {
+      "_id": "m118-1-9-7",
+      "x": 7,
+      "y": 9,
+      "z": 1,
+      "depth": 0,
+      "height": 9,
+      "surface": "Iron plate"
+    }
+  ]
+}

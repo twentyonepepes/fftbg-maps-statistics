@@ -1,0 +1,1728 @@
+{
+  "1": {
+    "slug": "1-gate-of-igros-castle",
+    "num": 1,
+    "name": "Gate of Igros Castle",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor",
+      "Waterway"
+    ],
+    "positionDelta": 10.75,
+    "heightDelta": 1.438
+  },
+  "2": {
+    "slug": "2-back-gate-of-lesalia-castle",
+    "num": 2,
+    "name": "Back Gate of Lesalia Castle",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Stone floor",
+      "Tree"
+    ],
+    "positionDelta": 11.5,
+    "heightDelta": 0.875
+  },
+  "3": {
+    "slug": "3-hall-of-st.-murond-temple",
+    "num": 3,
+    "name": "Hall of St. Murond Temple",
+    "surfaces": [
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor",
+      "Waterway"
+    ],
+    "positionDelta": 12.25,
+    "heightDelta": 1.5
+  },
+  "4": {
+    "slug": "4-lesalia-castle",
+    "num": 4,
+    "name": "Lesalia Castle",
+    "surfaces": [
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 13,
+    "heightDelta": 1.5
+  },
+  "5": {
+    "slug": "5-roof-of-riovanes-castle",
+    "num": 5,
+    "name": "Roof of Riovanes Castle",
+    "surfaces": [
+      "Chimney",
+      "Natural Surface",
+      "Roof",
+      "Stone wall",
+      "Wooden floor"
+    ],
+    "positionDelta": 10.5,
+    "heightDelta": 0.25
+  },
+  "6": {
+    "slug": "6-gate-of-riovanes-castle",
+    "num": 6,
+    "name": "Gate of Riovanes Castle",
+    "surfaces": [
+      "Grassland",
+      "Marsh",
+      "Natural Surface",
+      "Obstacle",
+      "Stone floor",
+      "Waterway"
+    ],
+    "positionDelta": 18,
+    "heightDelta": 10.625
+  },
+  "7": {
+    "slug": "7-riovanes-castle",
+    "num": 7,
+    "name": "Riovanes Castle",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Obstacle",
+      "Stone floor",
+      "Waterway"
+    ],
+    "positionDelta": 13.75,
+    "heightDelta": 6.5
+  },
+  "8": {
+    "slug": "8-office-of-riovanes-castle",
+    "num": 8,
+    "name": "Office of Riovanes Castle",
+    "surfaces": [
+      "Brick",
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stairs",
+      "Wooden floor"
+    ],
+    "positionDelta": 12,
+    "heightDelta": 2
+  },
+  "9": {
+    "slug": "9-citadel-of-igros-castle",
+    "num": 9,
+    "name": "Citadel of Igros Castle",
+    "surfaces": [
+      "Bridge",
+      "Grassland",
+      "Natural Surface",
+      "Obstacle",
+      "Stone floor",
+      "Waterway"
+    ],
+    "positionDelta": 12.25,
+    "heightDelta": 3
+  },
+  "10": {
+    "slug": "10-igros-castle",
+    "num": 10,
+    "name": "Igros Castle",
+    "surfaces": [
+      "Bridge",
+      "Natural Surface",
+      "Stone floor"
+    ],
+    "positionDelta": 16.5,
+    "heightDelta": 2
+  },
+  "11": {
+    "slug": "11-office-of-igros-castle",
+    "num": 11,
+    "name": "Office of Igros Castle",
+    "surfaces": [
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Sky",
+      "Stone floor",
+      "Stone wall"
+    ],
+    "positionDelta": 9,
+    "heightDelta": 0
+  },
+  "12": {
+    "slug": "12-gate-of-lionel-castle",
+    "num": 12,
+    "name": "Gate of Lionel Castle",
+    "surfaces": [
+      "Brick",
+      "Grassland",
+      "Marsh",
+      "Natural Surface",
+      "Obstacle",
+      "Rocky cliff",
+      "Stone floor",
+      "Stone wall"
+    ],
+    "positionDelta": 15.5,
+    "heightDelta": 0.125
+  },
+  "13": {
+    "slug": "13-lionel-castle",
+    "num": 13,
+    "name": "Lionel Castle",
+    "surfaces": [
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Obstacle",
+      "Rug",
+      "Stairs",
+      "Stone floor"
+    ],
+    "positionDelta": 8,
+    "heightDelta": 6
+  },
+  "14": {
+    "slug": "14-office-of-lionel-castle",
+    "num": 14,
+    "name": "Office of Lionel Castle",
+    "surfaces": [
+      "Box",
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor"
+    ],
+    "positionDelta": 8.25,
+    "heightDelta": 0
+  },
+  "15": {
+    "slug": "15-gate-of-limberry-castle",
+    "num": 15,
+    "name": "Gate of Limberry Castle",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Stone floor",
+      "Waterway"
+    ],
+    "positionDelta": 9.5,
+    "heightDelta": 0
+  },
+  "16": {
+    "slug": "16-limberry-castle",
+    "num": 16,
+    "name": "Limberry Castle",
+    "surfaces": [
+      "Cross section",
+      "Natural Surface",
+      "Obstacle",
+      "Rug",
+      "Stairs",
+      "Stone floor",
+      "Stone wall"
+    ],
+    "positionDelta": 10.5,
+    "heightDelta": 1.5
+  },
+  "17": {
+    "slug": "17-underground-cemetary-of-limberry-castle",
+    "num": 17,
+    "name": "Underground Cemetary of Limberry Castle",
+    "surfaces": [
+      "Bridge",
+      "Coffin",
+      "Cross section",
+      "Marsh",
+      "Natural Surface",
+      "Stone floor",
+      "Tombstone",
+      "Waterway"
+    ],
+    "positionDelta": 14.5,
+    "heightDelta": 4
+  },
+  "18": {
+    "slug": "18-office-of-limberry-castle",
+    "num": 18,
+    "name": "Office of Limberry Castle",
+    "surfaces": [
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor",
+      "Stone wall"
+    ],
+    "positionDelta": 8.75,
+    "heightDelta": 0
+  },
+  "19": {
+    "slug": "19-back-gate-of-limberry-castle",
+    "num": 19,
+    "name": "Back Gate of Limberry Castle",
+    "surfaces": [
+      "Box",
+      "Grassland",
+      "Natural Surface",
+      "Stairs",
+      "Stone floor"
+    ],
+    "positionDelta": 10.5,
+    "heightDelta": 2.125
+  },
+  "20": {
+    "slug": "20-zeltennia-castle",
+    "num": 20,
+    "name": "Zeltennia Castle",
+    "surfaces": [
+      "Bridge",
+      "Cross section",
+      "Natural Surface",
+      "Stone floor"
+    ],
+    "positionDelta": 9.25,
+    "heightDelta": 2.5
+  },
+  "21": {
+    "slug": "21-office-of-zeltennia-castle",
+    "num": 21,
+    "name": "Office of Zeltennia Castle",
+    "surfaces": [
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stairs",
+      "Stone floor"
+    ],
+    "positionDelta": 11.25,
+    "heightDelta": 2
+  },
+  "22": {
+    "slug": "22-gariland-magic-city",
+    "num": 22,
+    "name": "Gariland Magic City",
+    "surfaces": [
+      "Box",
+      "Bridge",
+      "Chimney",
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor",
+      "Tree",
+      "Waterway",
+      "Wooden floor"
+    ],
+    "positionDelta": 13.25,
+    "heightDelta": 0.188
+  },
+  "23": {
+    "slug": "23-beoulve-estate",
+    "num": 23,
+    "name": "Beoulve Estate",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor",
+      "Tree",
+      "Waterway"
+    ],
+    "positionDelta": 8.75,
+    "heightDelta": 2
+  },
+  "24": {
+    "slug": "24-military-academy-auditorium",
+    "num": 24,
+    "name": "Military Academy Auditorium",
+    "surfaces": [
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor",
+      "Stone wall",
+      "Wooden floor"
+    ],
+    "positionDelta": 8.75,
+    "heightDelta": 1.5
+  },
+  "25": {
+    "slug": "25-yardow-fort-city",
+    "num": 25,
+    "name": "Yardow Fort City",
+    "surfaces": [
+      "Chimney",
+      "Grassland",
+      "Natural Surface",
+      "Obstacle",
+      "Roof",
+      "Stairs",
+      "Stone floor",
+      "Stone wall",
+      "Tree",
+      "Wooden floor"
+    ],
+    "positionDelta": 13.75,
+    "heightDelta": 2.25
+  },
+  "26": {
+    "slug": "26-weapon-storage-of-yardow",
+    "num": 26,
+    "name": "Weapon Storage of Yardow",
+    "surfaces": [
+      "Box",
+      "Machine",
+      "Natural Surface",
+      "Obstacle",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 17.625,
+    "heightDelta": 5.5
+  },
+  "27": {
+    "slug": "27-goland-coal-city",
+    "num": 27,
+    "name": "Goland Coal City",
+    "surfaces": [
+      "Chimney",
+      "Natural Surface",
+      "Roof",
+      "Snow",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 14,
+    "heightDelta": 0.688
+  },
+  "28": {
+    "slug": "28-ridge-of-goland-colliery",
+    "num": 28,
+    "name": "Ridge of Goland Colliery",
+    "surfaces": [
+      "Natural Surface",
+      "Obstacle",
+      "Snow",
+      "Stone floor"
+    ],
+    "positionDelta": 16,
+    "heightDelta": 5.688
+  },
+  "29": {
+    "slug": "29-slope-of-goland-colliery",
+    "num": 29,
+    "name": "Slope of Goland Colliery",
+    "surfaces": [
+      "Natural Surface",
+      "Obstacle",
+      "Snow"
+    ],
+    "positionDelta": 17.25,
+    "heightDelta": 9.625
+  },
+  "30": {
+    "slug": "30-floor-of-goland-colliery",
+    "num": 30,
+    "name": "Floor of Goland Colliery",
+    "surfaces": [
+      "Natural Surface",
+      "Snow",
+      "Wooden floor"
+    ],
+    "positionDelta": 17,
+    "heightDelta": 1.125
+  },
+  "31": {
+    "slug": "31-dorter-trade-city",
+    "num": 31,
+    "name": "Dorter Trade City",
+    "surfaces": [
+      "Chimney",
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor",
+      "Tree"
+    ],
+    "positionDelta": 9.5,
+    "heightDelta": 7.75
+  },
+  "32": {
+    "slug": "32-slums-in-dorter",
+    "num": 32,
+    "name": "Slums in Dorter",
+    "surfaces": [
+      "Box",
+      "Grassland",
+      "Marsh",
+      "Natural Surface",
+      "River",
+      "Roof",
+      "Sea",
+      "Stone floor"
+    ],
+    "positionDelta": 17.5,
+    "heightDelta": 0.125
+  },
+  "33": {
+    "slug": "33-hospital-in-slums",
+    "num": 33,
+    "name": "Hospital in Slums",
+    "surfaces": [
+      "Book",
+      "Box",
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Obstacle",
+      "Rug",
+      "Stairs",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 11.75,
+    "heightDelta": 0
+  },
+  "34": {
+    "slug": "34-cellar-of-sand-mouse",
+    "num": 34,
+    "name": "Cellar of Sand Mouse",
+    "surfaces": [
+      "Box",
+      "Grassland",
+      "Natural Surface",
+      "Obstacle",
+      "Roof",
+      "Stone floor",
+      "Stone wall",
+      "Tree"
+    ],
+    "positionDelta": 16,
+    "heightDelta": 1.438
+  },
+  "35": {
+    "slug": "35-zaland-fort-city",
+    "num": 35,
+    "name": "Zaland Fort City",
+    "surfaces": [
+      "Box",
+      "Chimney",
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor"
+    ],
+    "positionDelta": 12.5,
+    "heightDelta": 1.75
+  },
+  "36": {
+    "slug": "36-church-outside-of-town",
+    "num": 36,
+    "name": "Church Outside of Town",
+    "surfaces": [
+      "Chimney",
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor",
+      "Tree",
+      "Wooden floor"
+    ],
+    "positionDelta": 9,
+    "heightDelta": 3.5
+  },
+  "37": {
+    "slug": "37-ruins-outside-zaland",
+    "num": 37,
+    "name": "Ruins Outside Zaland",
+    "surfaces": [
+      "Brick",
+      "Grassland",
+      "Natural Surface",
+      "Obstacle",
+      "Stone floor",
+      "Tree"
+    ],
+    "positionDelta": 11.25,
+    "heightDelta": 1
+  },
+  "38": {
+    "slug": "38-goug-machine-city",
+    "num": 38,
+    "name": "Goug Machine City",
+    "surfaces": [
+      "Bridge",
+      "Chimney",
+      "Grassland",
+      "Machine",
+      "Natural Surface",
+      "Roof",
+      "Stone floor"
+    ],
+    "positionDelta": 12.25,
+    "heightDelta": 2
+  },
+  "39": {
+    "slug": "39-underground-passage-in-goland",
+    "num": 39,
+    "name": "Underground Passage in Goland",
+    "surfaces": [
+      "Cross section",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stone floor",
+      "Stone wall",
+      "Wooden floor"
+    ],
+    "positionDelta": 19.125,
+    "heightDelta": 1.125
+  },
+  "40": {
+    "slug": "40-slums-in-goug",
+    "num": 40,
+    "name": "Slums in Goug",
+    "surfaces": [
+      "Box",
+      "Chimney",
+      "Grassland",
+      "Machine",
+      "Natural Surface",
+      "Roof",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 15.25,
+    "heightDelta": 1
+  },
+  "41": {
+    "slug": "41-besrodio's-house",
+    "num": 41,
+    "name": "Besrodio's House",
+    "surfaces": [
+      "Book",
+      "Natural Surface",
+      "Rug",
+      "Stone wall",
+      "Wooden floor"
+    ],
+    "positionDelta": 7,
+    "heightDelta": 0
+  },
+  "42": {
+    "slug": "42-warjilis-trade-city",
+    "num": 42,
+    "name": "Warjilis Trade City",
+    "surfaces": [
+      "Box",
+      "Chimney",
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Sea",
+      "Stone floor"
+    ],
+    "positionDelta": 16,
+    "heightDelta": 0
+  },
+  "43": {
+    "slug": "43-port-of-warjilis",
+    "num": 43,
+    "name": "Port of Warjilis",
+    "surfaces": [
+      "Box",
+      "Bridge",
+      "Deck",
+      "Natural Surface",
+      "Obstacle",
+      "Roof",
+      "Sea",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 10,
+    "heightDelta": 0
+  },
+  "44": {
+    "slug": "44-bervenia-free-city",
+    "num": 44,
+    "name": "Bervenia Free City",
+    "surfaces": [
+      "Box",
+      "Chimney",
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor"
+    ],
+    "positionDelta": 14.125,
+    "heightDelta": 16.625
+  },
+  "45": {
+    "slug": "45-ruins-of-zeltennia-castle's-church",
+    "num": 45,
+    "name": "Ruins of Zeltennia Castle's Church",
+    "surfaces": [
+      "Brick",
+      "Grassland",
+      "Natural Surface",
+      "Stone floor"
+    ],
+    "positionDelta": 15.5,
+    "heightDelta": 3.125
+  },
+  "46": {
+    "slug": "46-cemetary-of-heavenly-knight,-balbanes",
+    "num": 46,
+    "name": "Cemetary of Heavenly Knight, Balbanes",
+    "surfaces": [
+      "Grassland",
+      "Lake",
+      "Natural Surface",
+      "Stairs",
+      "Stone floor",
+      "Tombstone",
+      "Tree"
+    ],
+    "positionDelta": 12.75,
+    "heightDelta": 1.75
+  },
+  "47": {
+    "slug": "47-zarghidas-trade-city",
+    "num": 47,
+    "name": "Zarghidas Trade City",
+    "surfaces": [
+      "Box",
+      "Chimney",
+      "Mud wall",
+      "Natural Surface",
+      "Roof",
+      "Stairs",
+      "Stone floor",
+      "Wasteland"
+    ],
+    "positionDelta": 16.25,
+    "heightDelta": 2.125
+  },
+  "48": {
+    "slug": "48-slums-in-zarghidas",
+    "num": 48,
+    "name": "Slums in Zarghidas",
+    "surfaces": [
+      "Box",
+      "Chimney",
+      "Grassland",
+      "Natural Surface",
+      "River",
+      "Roof",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 13.125,
+    "heightDelta": 2.625
+  },
+  "49": {
+    "slug": "49-fort-zeakden",
+    "num": 49,
+    "name": "Fort Zeakden",
+    "surfaces": [
+      "Bridge",
+      "Natural Surface",
+      "Snow",
+      "Wooden floor"
+    ],
+    "positionDelta": 13.25,
+    "heightDelta": 0.813
+  },
+  "50": {
+    "slug": "50-st.-murond-temple",
+    "num": 50,
+    "name": "St. Murond Temple",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor",
+      "Tree"
+    ],
+    "positionDelta": 12.5,
+    "heightDelta": 0.875
+  },
+  "51": {
+    "slug": "51-office-of-st.-murond-temple",
+    "num": 51,
+    "name": "Office of St. Murond Temple",
+    "surfaces": [
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Obstacle",
+      "Rug",
+      "Stairs",
+      "Stone floor"
+    ],
+    "positionDelta": 10.75,
+    "heightDelta": 0
+  },
+  "52": {
+    "slug": "52-chapel-of-st.-murond-temple",
+    "num": 52,
+    "name": "Chapel of St. Murond Temple",
+    "surfaces": [
+      "Coffin",
+      "Cross section",
+      "Natural Surface",
+      "Obstacle",
+      "Rug",
+      "Stone floor"
+    ],
+    "positionDelta": 10.5,
+    "heightDelta": 0
+  },
+  "53": {
+    "slug": "53-entrance-to-death-city",
+    "num": 53,
+    "name": "Entrance to Death City",
+    "surfaces": [
+      "Book",
+      "Darkness",
+      "Machine",
+      "Natural Surface",
+      "Stone floor"
+    ],
+    "positionDelta": 9.75,
+    "heightDelta": 0
+  },
+  "54": {
+    "slug": "54-lost-sacred-precincts",
+    "num": 54,
+    "name": "Lost Sacred Precincts",
+    "surfaces": [
+      "Box",
+      "Darkness",
+      "Natural Surface",
+      "Obstacle",
+      "Roof",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 14.75,
+    "heightDelta": 2.25
+  },
+  "55": {
+    "slug": "55-graveyard-of-airships",
+    "num": 55,
+    "name": "Graveyard of Airships",
+    "surfaces": [
+      "Darkness",
+      "Deck",
+      "Ivy",
+      "Machine",
+      "Natural Surface",
+      "Obstacle"
+    ],
+    "positionDelta": 14.75,
+    "heightDelta": 7
+  },
+  "56": {
+    "slug": "56-orbonne-monastery",
+    "num": 56,
+    "name": "Orbonne Monastery",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Roof",
+      "Sea",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 15,
+    "heightDelta": 1.063
+  },
+  "57": {
+    "slug": "57-underground-book-storage-first-floor",
+    "num": 57,
+    "name": "Underground Book Storage First Floor",
+    "surfaces": [
+      "Book",
+      "Brick",
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Stairs",
+      "Wooden floor"
+    ],
+    "positionDelta": 13.625,
+    "heightDelta": 4
+  },
+  "58": {
+    "slug": "58-underground-book-storage-second-floor",
+    "num": 58,
+    "name": "Underground Book Storage Second Floor",
+    "surfaces": [
+      "Book",
+      "Brick",
+      "Furniture",
+      "Natural Surface",
+      "Roof",
+      "Stairs"
+    ],
+    "positionDelta": 12.625,
+    "heightDelta": 5.25
+  },
+  "59": {
+    "slug": "59-underground-book-storage-third-floor",
+    "num": 59,
+    "name": "Underground Book Storage Third Floor",
+    "surfaces": [
+      "Book",
+      "Natural Surface",
+      "Stairs",
+      "Stone floor"
+    ],
+    "positionDelta": 18,
+    "heightDelta": 0.875
+  },
+  "60": {
+    "slug": "60-underground-book-storage-fourth-floor",
+    "num": 60,
+    "name": "Underground Book Storage Fourth Floor",
+    "surfaces": [
+      "Book",
+      "Brick",
+      "Bridge",
+      "Furniture",
+      "Natural Surface",
+      "Stone floor"
+    ],
+    "positionDelta": 14,
+    "heightDelta": 3
+  },
+  "61": {
+    "slug": "61-underground-book-storage-fifth-floor",
+    "num": 61,
+    "name": "Underground Book Storage Fifth Floor",
+    "surfaces": [
+      "Book",
+      "Brick",
+      "Darkness",
+      "Natural Surface",
+      "Wooden floor"
+    ],
+    "positionDelta": 15.5,
+    "heightDelta": 1.875
+  },
+  "62": {
+    "slug": "62-chapel-of-orbonne-monastery",
+    "num": 62,
+    "name": "Chapel of Orbonne Monastery",
+    "surfaces": [
+      "Natural Surface",
+      "Rug",
+      "Stairs",
+      "Stone floor",
+      "Stone wall",
+      "Wooden floor"
+    ],
+    "positionDelta": 8.25,
+    "heightDelta": 0.75
+  },
+  "63": {
+    "slug": "63-golgorand-execution-site",
+    "num": 63,
+    "name": "Golgorand Execution Site",
+    "surfaces": [
+      "Brick",
+      "Grassland",
+      "Natural Surface",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 11.25,
+    "heightDelta": 0.375
+  },
+  "64": {
+    "slug": "64-sluice-of-bethla-garrison",
+    "num": 64,
+    "name": "Sluice of Bethla Garrison",
+    "surfaces": [
+      "Bridge",
+      "Grassland",
+      "Iron plate",
+      "Lake",
+      "Marsh",
+      "Natural Surface",
+      "River",
+      "Sand area",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 11.875,
+    "heightDelta": 3.688
+  },
+  "65": {
+    "slug": "65-granary-of-bethla-garrison",
+    "num": 65,
+    "name": "Granary of Bethla Garrison",
+    "surfaces": [
+      "Box",
+      "Furniture",
+      "Natural Surface",
+      "Roof",
+      "Salt",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 8.25,
+    "heightDelta": 6.375
+  },
+  "66": {
+    "slug": "66-south-wall-of-bethla-garrison",
+    "num": 66,
+    "name": "South Wall of Bethla Garrison",
+    "surfaces": [
+      "Box",
+      "Brick",
+      "Grassland",
+      "Natural Surface",
+      "Wasteland"
+    ],
+    "positionDelta": 10.875,
+    "heightDelta": 1.688
+  },
+  "67": {
+    "slug": "67-north-wall-of-bethla-garrison",
+    "num": 67,
+    "name": "North Wall of Bethla Garrison",
+    "surfaces": [
+      "Box",
+      "Brick",
+      "Grassland",
+      "Natural Surface",
+      "Wasteland"
+    ],
+    "positionDelta": 15,
+    "heightDelta": 0
+  },
+  "68": {
+    "slug": "68-bethla-garrison",
+    "num": 68,
+    "name": "Bethla Garrison",
+    "surfaces": [
+      "Book",
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor"
+    ],
+    "positionDelta": 11.5,
+    "heightDelta": 0
+  },
+  "69": {
+    "slug": "69-murond-death-city",
+    "num": 69,
+    "name": "Murond Death City",
+    "surfaces": [
+      "Cross section",
+      "Natural Surface",
+      "Snow",
+      "Stone floor",
+      "Stone wall",
+      "Wasteland",
+      "Wooden floor"
+    ],
+    "positionDelta": 11.5,
+    "heightDelta": 3
+  },
+  "70": {
+    "slug": "70-nelveska-temple",
+    "num": 70,
+    "name": "Nelveska Temple",
+    "surfaces": [
+      "Coffin",
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Roof",
+      "Sand area",
+      "Snow",
+      "Stairs",
+      "Stone floor"
+    ],
+    "positionDelta": 9,
+    "heightDelta": 6
+  },
+  "71": {
+    "slug": "71-dolbodar-swamp",
+    "num": 71,
+    "name": "Dolbodar Swamp",
+    "surfaces": [
+      "Grassland",
+      "Marsh",
+      "Natural Surface",
+      "Water plant"
+    ],
+    "positionDelta": 15.5,
+    "heightDelta": 0.188
+  },
+  "72": {
+    "slug": "72-fovoham-plains",
+    "num": 72,
+    "name": "Fovoham Plains",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Sea"
+    ],
+    "positionDelta": 11.25,
+    "heightDelta": 1.125
+  },
+  "73": {
+    "slug": "73-windmill-shed",
+    "num": 73,
+    "name": "Windmill Shed",
+    "surfaces": [
+      "Box",
+      "Natural Surface",
+      "Obstacle",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 8.125,
+    "heightDelta": 1.188
+  },
+  "74": {
+    "slug": "74-sweegy-woods",
+    "num": 74,
+    "name": "Sweegy Woods",
+    "surfaces": [
+      "Bridge",
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Swamp",
+      "Tree"
+    ],
+    "positionDelta": 15.25,
+    "heightDelta": 0.688
+  },
+  "75": {
+    "slug": "75-bervenia-volcano",
+    "num": 75,
+    "name": "Bervenia Volcano",
+    "surfaces": [
+      "Lava",
+      "Lava rocks",
+      "Natural Surface"
+    ],
+    "positionDelta": 15.75,
+    "heightDelta": 1.125
+  },
+  "76": {
+    "slug": "76-zeklaus-desert",
+    "num": 76,
+    "name": "Zeklaus Desert",
+    "surfaces": [
+      "Natural Surface",
+      "Rocky cliff",
+      "Sand area",
+      "Tree"
+    ],
+    "positionDelta": 18.25,
+    "heightDelta": 0.438
+  },
+  "77": {
+    "slug": "77-lenalia-plateau",
+    "num": 77,
+    "name": "Lenalia Plateau",
+    "surfaces": [
+      "Grassland",
+      "Lake",
+      "Natural Surface",
+      "Rocky cliff"
+    ],
+    "positionDelta": 12.125,
+    "heightDelta": 2.875
+  },
+  "78": {
+    "slug": "78-zigolis-swamp",
+    "num": 78,
+    "name": "Zigolis Swamp",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Poisoned marsh",
+      "Rocky cliff",
+      "Tree",
+      "Wasteland"
+    ],
+    "positionDelta": 17,
+    "heightDelta": 0.938
+  },
+  "79": {
+    "slug": "79-yuguo-woods",
+    "num": 79,
+    "name": "Yuguo Woods",
+    "surfaces": [
+      "Grassland",
+      "Moss",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stone floor",
+      "Tree"
+    ],
+    "positionDelta": 14,
+    "heightDelta": 1
+  },
+  "80": {
+    "slug": "80-araguay-woods",
+    "num": 80,
+    "name": "Araguay Woods",
+    "surfaces": [
+      "Cross section",
+      "Grassland",
+      "Natural Surface",
+      "Tree"
+    ],
+    "positionDelta": 11.5,
+    "heightDelta": 1.5
+  },
+  "81": {
+    "slug": "81-grog-hill",
+    "num": 81,
+    "name": "Grog Hill",
+    "surfaces": [
+      "Box",
+      "Brick",
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stairs",
+      "Stone floor",
+      "Thicket"
+    ],
+    "positionDelta": 20,
+    "heightDelta": 8.5
+  },
+  "82": {
+    "slug": "82-bed-desert",
+    "num": 82,
+    "name": "Bed Desert",
+    "surfaces": [
+      "Brick",
+      "Natural Surface",
+      "Sand area",
+      "Stairs",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 14.75,
+    "heightDelta": 1.563
+  },
+  "83": {
+    "slug": "83-zirekile-falls",
+    "num": 83,
+    "name": "Zirekile Falls",
+    "surfaces": [
+      "Bridge",
+      "Grassland",
+      "Natural Surface",
+      "River",
+      "Rocky cliff",
+      "Waterfall"
+    ],
+    "positionDelta": 10.25,
+    "heightDelta": 1.25
+  },
+  "84": {
+    "slug": "84-bariaus-hill",
+    "num": 84,
+    "name": "Bariaus Hill",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Tree"
+    ],
+    "positionDelta": 9.25,
+    "heightDelta": 0.875
+  },
+  "85": {
+    "slug": "85-mandalia-plains",
+    "num": 85,
+    "name": "Mandalia Plains",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff"
+    ],
+    "positionDelta": 20.25,
+    "heightDelta": 0.188
+  },
+  "86": {
+    "slug": "86-doguola-pass",
+    "num": 86,
+    "name": "Doguola Pass",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff"
+    ],
+    "positionDelta": 14,
+    "heightDelta": 12
+  },
+  "87": {
+    "slug": "87-bariaus-valley",
+    "num": 87,
+    "name": "Bariaus Valley",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "River",
+      "Stone floor",
+      "Tree"
+    ],
+    "positionDelta": 13.25,
+    "heightDelta": 1.563
+  },
+  "88": {
+    "slug": "88-finath-river",
+    "num": 88,
+    "name": "Finath River",
+    "surfaces": [
+      "Grassland",
+      "Gravel",
+      "Natural Surface",
+      "River",
+      "Rocky cliff",
+      "Tree"
+    ],
+    "positionDelta": 20,
+    "heightDelta": 2.625
+  },
+  "89": {
+    "slug": "89-poeskas-lake",
+    "num": 89,
+    "name": "Poeskas Lake",
+    "surfaces": [
+      "Brick",
+      "Bridge",
+      "Natural Surface",
+      "Rocky cliff",
+      "Salt",
+      "Sand area",
+      "Wooden floor"
+    ],
+    "positionDelta": 16,
+    "heightDelta": 6.5
+  },
+  "90": {
+    "slug": "90-germinas-peak",
+    "num": 90,
+    "name": "Germinas Peak",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Wooden floor"
+    ],
+    "positionDelta": 18,
+    "heightDelta": 1.625
+  },
+  "91": {
+    "slug": "91-thieves-fort",
+    "num": 91,
+    "name": "Thieves Fort",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Sea",
+      "Stone floor",
+      "Wooden floor"
+    ],
+    "positionDelta": 11,
+    "heightDelta": 1
+  },
+  "92": {
+    "slug": "92-igros-residence",
+    "num": 92,
+    "name": "Igros Residence",
+    "surfaces": [
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stairs",
+      "Stone floor",
+      "Stone wall"
+    ],
+    "positionDelta": 7.25,
+    "heightDelta": 0
+  },
+  "93": {
+    "slug": "93-wooden-shed",
+    "num": 93,
+    "name": "Wooden Shed",
+    "surfaces": [
+      "Brick",
+      "Natural Surface",
+      "Obstacle",
+      "Rug",
+      "Stairs",
+      "Wooden floor"
+    ],
+    "positionDelta": 7.25,
+    "heightDelta": 0.375
+  },
+  "94": {
+    "slug": "94-stone-shed",
+    "num": 94,
+    "name": "Stone Shed",
+    "surfaces": [
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor"
+    ],
+    "positionDelta": 9.5,
+    "heightDelta": 1.625
+  },
+  "95": {
+    "slug": "95-church",
+    "num": 95,
+    "name": "Church",
+    "surfaces": [
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor"
+    ],
+    "positionDelta": 12.25,
+    "heightDelta": 2
+  },
+  "96": {
+    "slug": "96-pub",
+    "num": 96,
+    "name": "Pub",
+    "surfaces": [
+      "Box",
+      "Brick",
+      "Cross section",
+      "Furniture",
+      "Natural Surface",
+      "Wooden floor"
+    ],
+    "positionDelta": 9.5,
+    "heightDelta": 0
+  },
+  "97": {
+    "slug": "97-lesalia-imperial-capital",
+    "num": 97,
+    "name": "Lesalia Imperial Capital",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Roof",
+      "Stone floor"
+    ],
+    "positionDelta": 11.25,
+    "heightDelta": 0
+  },
+  "98": {
+    "slug": "98-gate-of-lesalia-castle",
+    "num": 98,
+    "name": "Gate of Lesalia Castle",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Stone floor"
+    ],
+    "positionDelta": 12.25,
+    "heightDelta": 0
+  },
+  "99": {
+    "slug": "99-main-street-of-lesalia",
+    "num": 99,
+    "name": "Main Street of Lesalia",
+    "surfaces": [
+      "Chimney",
+      "Natural Surface",
+      "Road",
+      "Roof",
+      "Stone floor"
+    ],
+    "positionDelta": 20,
+    "heightDelta": 3.5
+  },
+  "100": {
+    "slug": "100-public-cemetary",
+    "num": 100,
+    "name": "Public Cemetary",
+    "surfaces": [
+      "Coffin",
+      "Grassland",
+      "Natural Surface",
+      "Stone floor",
+      "Tombstone",
+      "Tree"
+    ],
+    "positionDelta": 16.25,
+    "heightDelta": 1.25
+  },
+  "101": {
+    "slug": "101-tutorial",
+    "num": 101,
+    "name": "Tutorial",
+    "surfaces": [
+      "Natural Surface",
+      "Sea",
+      "Stone floor"
+    ],
+    "positionDelta": 12.5,
+    "heightDelta": 0.25
+  },
+  "102": {
+    "slug": "102-tutorial-bridge",
+    "num": 102,
+    "name": "Tutorial Bridge",
+    "surfaces": [
+      "Natural Surface",
+      "Stone floor"
+    ],
+    "positionDelta": 17,
+    "heightDelta": 9
+  },
+  "103": {
+    "slug": "103-fovoham-windmill",
+    "num": 103,
+    "name": "Fovoham Windmill",
+    "surfaces": [
+      "Brick",
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Roof",
+      "Stone floor"
+    ],
+    "positionDelta": 11.125,
+    "heightDelta": 3.125
+  },
+  "104": {
+    "slug": "104-beoulve-residence",
+    "num": 104,
+    "name": "Beoulve Residence",
+    "surfaces": [
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone wall"
+    ],
+    "positionDelta": 7.25,
+    "heightDelta": 0
+  },
+  "105": {
+    "slug": "105-terminate",
+    "num": 105,
+    "name": "TERMINATE",
+    "surfaces": [
+      "Moss",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 9.25,
+    "heightDelta": 1.5
+  },
+  "106": {
+    "slug": "106-delta",
+    "num": 106,
+    "name": "DELTA",
+    "surfaces": [
+      "Darkness",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 19.25,
+    "heightDelta": 0.813
+  },
+  "107": {
+    "slug": "107-nogias",
+    "num": 107,
+    "name": "NOGIAS",
+    "surfaces": [
+      "Moss",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 12,
+    "heightDelta": 10
+  },
+  "108": {
+    "slug": "108-voyage",
+    "num": 108,
+    "name": "VOYAGE",
+    "surfaces": [
+      "Darkness",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 18,
+    "heightDelta": 1
+  },
+  "109": {
+    "slug": "109-bridge",
+    "num": 109,
+    "name": "BRIDGE",
+    "surfaces": [
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 20,
+    "heightDelta": 3.25
+  },
+  "110": {
+    "slug": "110-valkyries",
+    "num": 110,
+    "name": "VALKYRIES",
+    "surfaces": [
+      "Darkness",
+      "Moss",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 18,
+    "heightDelta": 8
+  },
+  "111": {
+    "slug": "111-mlapan",
+    "num": 111,
+    "name": "MLAPAN",
+    "surfaces": [
+      "Natural Surface",
+      "River",
+      "Stalactite"
+    ],
+    "positionDelta": 15,
+    "heightDelta": 10.5
+  },
+  "112": {
+    "slug": "112-tiger",
+    "num": 112,
+    "name": "TIGER",
+    "surfaces": [
+      "Moss",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 9.5,
+    "heightDelta": 5
+  },
+  "113": {
+    "slug": "113-horror",
+    "num": 113,
+    "name": "HORROR",
+    "surfaces": [
+      "Darkness",
+      "Moss",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 10.5,
+    "heightDelta": 0.5
+  },
+  "114": {
+    "slug": "114-end",
+    "num": 114,
+    "name": "END",
+    "surfaces": [
+      "Darkness",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stalactite"
+    ],
+    "positionDelta": 6.5,
+    "heightDelta": 14
+  },
+  "115": {
+    "slug": "115-banished-fort",
+    "num": 115,
+    "name": "Banished Fort",
+    "surfaces": [
+      "Grassland",
+      "Natural Surface",
+      "Rocky cliff",
+      "Stone wall",
+      "Wooden floor"
+    ],
+    "positionDelta": 14.5,
+    "heightDelta": 1.25
+  },
+  "116": {
+    "slug": "116-arena",
+    "num": 116,
+    "name": "Arena",
+    "surfaces": [
+      "Natural Surface",
+      "Stone floor"
+    ],
+    "positionDelta": 7,
+    "heightDelta": 0
+  },
+  "117": {
+    "slug": "117-checkerboard-land",
+    "num": 117,
+    "name": "Checkerboard Land",
+    "surfaces": [
+      "Natural Surface"
+    ],
+    "positionDelta": 4.25,
+    "heightDelta": 0.5
+  },
+  "118": {
+    "slug": "118-enhasa-zeal-city",
+    "num": 118,
+    "name": "Enhasa Zeal City",
+    "surfaces": [
+      "Iron plate",
+      "Machine",
+      "Natural Surface",
+      "Stairs",
+      "Stone floor"
+    ],
+    "positionDelta": 12.5,
+    "heightDelta": 0
+  },
+  "null": {
+    "slug": "0-end-of-time",
+    "num": 0,
+    "name": "End of Time",
+    "surfaces": [
+      "Furniture",
+      "Natural Surface",
+      "Rug",
+      "Stone floor",
+      "Tree"
+    ],
+    "positionDelta": 10.75,
+    "heightDelta": 1.813
+  }
+}

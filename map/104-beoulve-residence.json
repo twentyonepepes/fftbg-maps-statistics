@@ -1,0 +1,362 @@
+{
+  "slug": "104-beoulve-residence",
+  "num": 104,
+  "name": "Beoulve Residence",
+  "surfaces": [
+    "Furniture",
+    "Natural Surface",
+    "Rug",
+    "Stone wall"
+  ],
+  "starts": [
+    [
+      "m104-0-7-5",
+      "m104-0-6-4",
+      "m104-0-6-3",
+      "m104-0-7-2"
+    ],
+    [
+      "m104-0-0-5",
+      "m104-0-1-4",
+      "m104-0-1-3",
+      "m104-0-0-2"
+    ]
+  ],
+  "positionDelta": 7.25,
+  "heightDelta": 0,
+  "tiles": [
+    {
+      "_id": "m104-0-0-2",
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-0-3",
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-0-4",
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-0-5",
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-1-2",
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-1-3",
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-1-4",
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-1-5",
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-2-1",
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-2-2",
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-2-3",
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-2-4",
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-2-5",
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-3-0",
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-3-1",
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-3-2",
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-3-3",
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 2,
+      "surface": "Furniture"
+    },
+    {
+      "_id": "m104-0-3-4",
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-3-5",
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-4-0",
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-4-1",
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-4-2",
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-4-3",
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 2,
+      "surface": "Furniture"
+    },
+    {
+      "_id": "m104-0-4-4",
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-4-5",
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-5-0",
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-5-1",
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-5-2",
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-5-3",
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-5-4",
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-5-5",
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-6-2",
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-6-3",
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-6-4",
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-6-5",
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-7-2",
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m104-0-7-5",
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Rug"
+    }
+  ]
+}

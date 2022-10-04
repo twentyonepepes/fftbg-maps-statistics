@@ -1,0 +1,486 @@
+[
+    {
+        "number": 75,
+        "name": "Bervenia Volcano"
+    },
+    {
+        "number": 87,
+        "name": "Bariaus Valley"
+    },
+    {
+        "number": 113,
+        "name": "HORROR"
+    },
+    {
+        "number": 111,
+        "name": "MLAPAN"
+    },
+    {
+        "number": 61,
+        "name": "Underground Book Storage Fifth Floor"
+    },
+    {
+        "number": 57,
+        "name": "Underground Book Storage First Floor"
+    },
+    {
+        "number": 0,
+        "name": "End of Time"
+    },
+    {
+        "number": 62,
+        "name": "Chapel of Orbonne Monastery"
+    },
+    {
+        "number": 119,
+        "name": "Arris Dome"
+    },
+    {
+        "number": 44,
+        "name": "Bervenia Free City"
+    },
+    {
+        "number": 20,
+        "name": "Zeltennia Castle"
+    },
+    {
+        "number": 82,
+        "name": "Bed Desert"
+    },
+    {
+        "number": 17,
+        "name": "Underground Cemetary of Limberry Castle"
+    },
+    {
+        "number": 63,
+        "name": "Golgorand Execution Site"
+    },
+    {
+        "number": 42,
+        "name": "Warjilis Trade City"
+    },
+    {
+        "number": 93,
+        "name": "Wooden Shed"
+    },
+    {
+        "number": 13,
+        "name": "Lionel Castle"
+    },
+    {
+        "number": 23,
+        "name": "Beoulve Estate"
+    },
+    {
+        "number": 110,
+        "name": "VALKYRIES"
+    },
+    {
+        "number": 31,
+        "name": "Dorter Trade City"
+    },
+    {
+        "number": 45,
+        "name": "Ruins of Zeltennia Castle's Church"
+    },
+    {
+        "number": 70,
+        "name": "Nelveska Temple"
+    },
+    {
+        "number": 92,
+        "name": "Igros Residence"
+    },
+    {
+        "number": 90,
+        "name": "Germinas Peak"
+    },
+    {
+        "number": 6,
+        "name": "Gate of Riovanes Castle"
+    },
+    {
+        "number": 12,
+        "name": "Gate of Lionel Castle"
+    },
+    {
+        "number": 2,
+        "name": "Back Gate of Lesalia Castle"
+    },
+    {
+        "number": 98,
+        "name": "Gate of Lesalia Castle"
+    },
+    {
+        "number": 55,
+        "name": "Graveyard of Airships"
+    },
+    {
+        "number": 73,
+        "name": "Windmill Shed"
+    },
+    {
+        "number": 85,
+        "name": "Mandalia Plains"
+    },
+    {
+        "number": 50,
+        "name": "St. Murond Temple"
+    },
+    {
+        "number": 29,
+        "name": "Slope of Goland Colliery"
+    },
+    {
+        "number": 68,
+        "name": "Bethla Garrison"
+    },
+    {
+        "number": 81,
+        "name": "Grog Hill"
+    },
+    {
+        "number": 8,
+        "name": "Office of Riovanes Castle"
+    },
+    {
+        "number": 66,
+        "name": "South Wall of Bethla Garrison"
+    },
+    {
+        "number": 96,
+        "name": "Pub"
+    },
+    {
+        "number": 53,
+        "name": "Entrance to Death City"
+    },
+    {
+        "number": 106,
+        "name": "DELTA"
+    },
+    {
+        "number": 39,
+        "name": "Underground Passage in Goland"
+    },
+    {
+        "number": 65,
+        "name": "Granary of Bethla Garrison"
+    },
+    {
+        "number": 74,
+        "name": "Sweegy Woods"
+    },
+    {
+        "number": 94,
+        "name": "Stone Shed"
+    },
+    {
+        "number": 104,
+        "name": "Beoulve Residence"
+    },
+    {
+        "number": 3,
+        "name": "Hall of St. Murond Temple"
+    },
+    {
+        "number": 35,
+        "name": "Zaland Fort City"
+    },
+    {
+        "number": 116,
+        "name": "Arena"
+    },
+    {
+        "number": 30,
+        "name": "Floor of Goland Colliery"
+    },
+    {
+        "number": 117,
+        "name": "Checkerboard Land"
+    },
+    {
+        "number": 52,
+        "name": "Chapel of St. Murond Temple"
+    },
+    {
+        "number": 84,
+        "name": "Bariaus Hill"
+    },
+    {
+        "number": 79,
+        "name": "Yuguo Woods"
+    },
+    {
+        "number": 112,
+        "name": "TIGER"
+    },
+    {
+        "number": 76,
+        "name": "Zeklaus Desert"
+    },
+    {
+        "number": 47,
+        "name": "Zarghidas Trade City"
+    },
+    {
+        "number": 72,
+        "name": "Fovoham Plains"
+    },
+    {
+        "number": 120,
+        "name": "Checkerboard Stairs"
+    },
+    {
+        "number": 97,
+        "name": "Lesalia Imperial Capital"
+    },
+    {
+        "number": 32,
+        "name": "Slums in Dorter"
+    },
+    {
+        "number": 40,
+        "name": "Slums in Goug"
+    },
+    {
+        "number": 108,
+        "name": "VOYAGE"
+    },
+    {
+        "number": 118,
+        "name": "Enhasa Zeal City"
+    },
+    {
+        "number": 43,
+        "name": "Port of Warjilis"
+    },
+    {
+        "number": 101,
+        "name": "Tutorial"
+    },
+    {
+        "number": 100,
+        "name": "Public Cemetary"
+    },
+    {
+        "number": 86,
+        "name": "Doguola Pass"
+    },
+    {
+        "number": 64,
+        "name": "Sluice of Bethla Garrison"
+    },
+    {
+        "number": 99,
+        "name": "Main Street of Lesalia"
+    },
+    {
+        "number": 5,
+        "name": "Roof of Riovanes Castle"
+    },
+    {
+        "number": 80,
+        "name": "Araguay Woods"
+    },
+    {
+        "number": 54,
+        "name": "Lost Sacred Precincts"
+    },
+    {
+        "number": 4,
+        "name": "Lesalia Castle"
+    },
+    {
+        "number": 37,
+        "name": "Ruins Outside Zaland"
+    },
+    {
+        "number": 91,
+        "name": "Thieves Fort"
+    },
+    {
+        "number": 69,
+        "name": "Murond Death City"
+    },
+    {
+        "number": 18,
+        "name": "Office of Limberry Castle"
+    },
+    {
+        "number": 56,
+        "name": "Orbonne Monastery"
+    },
+    {
+        "number": 14,
+        "name": "Office of Lionel Castle"
+    },
+    {
+        "number": 105,
+        "name": "TERMINATE"
+    },
+    {
+        "number": 11,
+        "name": "Office of Igros Castle"
+    },
+    {
+        "number": 89,
+        "name": "Poeskas Lake"
+    },
+    {
+        "number": 51,
+        "name": "Office of St. Murond Temple"
+    },
+    {
+        "number": 71,
+        "name": "Dolbodar Swamp"
+    },
+    {
+        "number": 36,
+        "name": "Church Outside of Town"
+    },
+    {
+        "number": 28,
+        "name": "Ridge of Goland Colliery"
+    },
+    {
+        "number": 27,
+        "name": "Goland Coal City"
+    },
+    {
+        "number": 83,
+        "name": "Zirekile Falls"
+    },
+    {
+        "number": 78,
+        "name": "Zigolis Swamp"
+    },
+    {
+        "number": 21,
+        "name": "Office of Zeltennia Castle"
+    },
+    {
+        "number": 102,
+        "name": "Tutorial Bridge"
+    },
+    {
+        "number": 46,
+        "name": "Cemetary of Heavenly Knight, Balbanes"
+    },
+    {
+        "number": 22,
+        "name": "Gariland Magic City"
+    },
+    {
+        "number": 49,
+        "name": "Fort Zeakden"
+    },
+    {
+        "number": 25,
+        "name": "Yardow Fort City"
+    },
+    {
+        "number": 19,
+        "name": "Back Gate of Limberry Castle"
+    },
+    {
+        "number": 16,
+        "name": "Limberry Castle"
+    },
+    {
+        "number": 15,
+        "name": "Gate of Limberry Castle"
+    },
+    {
+        "number": 109,
+        "name": "BRIDGE"
+    },
+    {
+        "number": 24,
+        "name": "Military Academy Auditorium"
+    },
+    {
+        "number": 58,
+        "name": "Underground Book Storage Second Floor"
+    },
+    {
+        "number": 95,
+        "name": "Church"
+    },
+    {
+        "number": 33,
+        "name": "Hospital in Slums"
+    },
+    {
+        "number": 10,
+        "name": "Igros Castle"
+    },
+    {
+        "number": 77,
+        "name": "Lenalia Plateau"
+    },
+    {
+        "number": 115,
+        "name": "Banished Fort"
+    },
+    {
+        "number": 48,
+        "name": "Slums in Zarghidas"
+    },
+    {
+        "number": 103,
+        "name": "Fovoham Windmill"
+    },
+    {
+        "number": 60,
+        "name": "Underground Book Storage Fourth Floor"
+    },
+    {
+        "number": 9,
+        "name": "Citadel of Igros Castle"
+    },
+    {
+        "number": 1,
+        "name": "Gate of Igros Castle"
+    },
+    {
+        "number": 26,
+        "name": "Weapon Storage of Yardow"
+    },
+    {
+        "number": 7,
+        "name": "Riovanes Castle"
+    },
+    {
+        "number": 41,
+        "name": "Besrodio's House"
+    },
+    {
+        "number": 34,
+        "name": "Cellar of Sand Mouse"
+    },
+    {
+        "number": 59,
+        "name": "Underground Book Storage Third Floor"
+    },
+    {
+        "number": 114,
+        "name": "END"
+    },
+    {
+        "number": 38,
+        "name": "Goug Machine City"
+    },
+    {
+        "number": 88,
+        "name": "Finath River"
+    },
+    {
+        "number": 107,
+        "name": "NOGIAS"
+    },
+    {
+        "number": 67,
+        "name": "North Wall of Bethla Garrison"
+    }
+]

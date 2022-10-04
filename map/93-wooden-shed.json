@@ -1,0 +1,418 @@
+{
+  "slug": "93-wooden-shed",
+  "num": 93,
+  "name": "Wooden Shed",
+  "surfaces": [
+    "Brick",
+    "Natural Surface",
+    "Obstacle",
+    "Rug",
+    "Stairs",
+    "Wooden floor"
+  ],
+  "starts": [
+    [
+      "m93-0-0-6",
+      "m93-0-0-5",
+      "m93-0-0-4",
+      "m93-0-0-3"
+    ],
+    [
+      "m93-0-6-6",
+      "m93-0-6-5",
+      "m93-0-6-4",
+      "m93-0-6-3"
+    ]
+  ],
+  "positionDelta": 7.25,
+  "heightDelta": 0.375,
+  "tiles": [
+    {
+      "_id": "m93-0-0-0",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-0-1",
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-0-2",
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-0-3",
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-0-4",
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-0-5",
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-0-6",
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-1-0",
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-1-1",
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-1-3",
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-1-4",
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-1-5",
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-1-6",
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-2-0",
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 4.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-2-1",
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 4.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-2-3",
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-2-4",
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-2-5",
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-2-6",
+      "x": 6,
+      "y": 2,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-3-0",
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 3.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-3-1",
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 3.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-3-3",
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-3-4",
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-3-5",
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-3-6",
+      "x": 6,
+      "y": 3,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-4-0",
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 2.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-4-1",
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 2.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-4-3",
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-4-4",
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-4-5",
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-4-6",
+      "x": 6,
+      "y": 4,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-5-0",
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-5-1",
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 1.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-5-3",
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-5-4",
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-5-5",
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Rug"
+    },
+    {
+      "_id": "m93-0-6-0",
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-6-1",
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 0.5,
+      "surface": "Stairs"
+    },
+    {
+      "_id": "m93-0-6-3",
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-6-4",
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-6-5",
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 5,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-6-6",
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "depth": 0,
+      "height": 6,
+      "surface": "Wooden floor"
+    },
+    {
+      "_id": "m93-0-7-1",
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "depth": 0,
+      "height": 0,
+      "surface": "Wooden floor"
+    }
+  ]
+}
